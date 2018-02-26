@@ -1,0 +1,33 @@
+body{
+    margin-top: 0px; 
+}
+.light{
+    background: #ccc;
+    font-size: 18px;
+    line-height: 150px;
+    /* border: 2px solid white; */
+}
+.dark{
+    background: darkgray;
+    font-size: 18px;
+    line-height: 150px;
+    /* border: 2px solid white; */
+}
+.main{
+    background: rgb(230, 224, 224);
+    font-size: 18px;
+    line-height: 300px;
+    /* border: 2px solid white; */
+}
+.main2{
+    background: rgb(230, 224, 224);
+    font-size: 18px;
+    line-height: 150px;
+    /* border: 2px solid white; */
+}
+.border{
+    border: none;
+}
+.padding{
+    padding: 0;
+}

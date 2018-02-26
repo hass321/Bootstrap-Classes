@@ -1,0 +1,11 @@
+body{
+    background: #eee;
+}
+.custom{
+    margin: 10px;
+    min-height: 50px;
+    background: #fff;
+    text-align: center;
+    font-size: large;
+    padding: 10px;
+}
